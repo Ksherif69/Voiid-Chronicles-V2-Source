@@ -1,0 +1,138 @@
+{
+	"objects": [
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.5,
+				0.5
+			],
+			"position": [
+				-640,
+				-410
+			],
+			"file_Name": "bg",
+			"scale": 1
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.8,
+				0.8
+			],
+			"position": [
+				-930,
+				539
+			],
+			"file_Name": "water",
+			"scale": 1.25,
+			"object_Name": "water"
+		},
+		{
+			"is_Animated": true,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.8,
+				0.8
+			],
+			"position": [
+				-645,
+				-345
+			],
+			"file_Name": "crowdLeft",
+			"scale": 1,
+			"start_Animation": "Crowd Left",
+			"animations": [
+				{
+					"animation_name": "Crowd Left",
+					"looped": true,
+					"fps": 12,
+					"name": "Crowd Left"
+				}
+			]
+		},
+		{
+			"is_Animated": true,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.8,
+				0.8
+			],
+			"position": [
+				963,
+				-350
+			],
+			"file_Name": "crowdRight",
+			"scale": 1,
+			"animations": [
+				{
+					"animation_name": "R Crowd Right",
+					"name": "crowdRight",
+					"fps": 12,
+					"looped": true
+				}
+			],
+			"start_Animation": "crowdRight"
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-605,
+				-595
+			],
+			"file_Name": "lights",
+			"scale": 1
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				139,
+				604
+			],
+			"file_Name": "platform",
+			"scale": 1
+		},
+		{
+			"is_Animated": false,
+			"layer": "foreground",
+			"antialiased": true,
+			"scroll_Factor": [
+				0,
+				0
+			],
+			"position": [
+				-575,
+				-370
+			],
+			"file_Name": "grain",
+			"scale": 1
+		}
+	],
+	"character_Positions": [
+		[
+			998,
+			829
+		],
+		[
+			534,
+			824
+		],
+		[
+			6905,
+			-2890
+		]
+	],
+	"scriptName": "VoiidArenaidk",
+	"camera_Zoom": 0.55
+}
